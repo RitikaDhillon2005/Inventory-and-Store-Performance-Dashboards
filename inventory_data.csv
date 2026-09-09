@@ -1,0 +1,13 @@
+date,store,category,product,units_sold,revenue,stock_on_hand,orders,returns
+2026-01-05,North,Electronics,iPhone 13,120,18000,350,34,4
+2026-01-10,South,Accessories,Case,200,4000,420,22,7
+2026-01-15,East,Electronics,AirPods,80,5600,200,18,3
+2026-01-20,West,Home,Smart Speaker,70,4200,180,19,2
+2026-02-02,North,Accessories,Charger,150,2400,310,28,5
+2026-02-11,South,Electronics,iPhone 13,140,21000,330,31,6
+2026-02-19,East,Home,Smart Speaker,90,5400,220,20,4
+2026-02-24,West,Electronics,AirPods,100,7000,240,25,3
+2026-03-08,North,Home,Smart Speaker,110,6600,300,27,5
+2026-03-14,South,Accessories,Case,170,3400,410,24,8
+2026-03-21,East,Electronics,iPhone 13,130,19500,290,30,4
+2026-03-28,West,Accessories,Charger,160,2600,260,29,6
