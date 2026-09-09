@@ -1,0 +1,1 @@
+My project analyzes inventory and sales data of different stores. It uses Python and Pandas to calculate revenue, profit, sales and stock levels, and Streamlit is used to present these results through an interactive dashboard. The dashboard also identifies low-stock products and compares the performance of different stores.
